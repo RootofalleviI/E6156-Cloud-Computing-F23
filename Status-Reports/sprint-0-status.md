@@ -21,7 +21,7 @@ We will post submission instructions on Ed for submitting the report.
 - Place a screen capture of your directory below. Display the structure in a terminal window, PyCharm, file explorer
 or any other mechanism.
 
-| <img src="./project-structure.jpg"> |
+| <img src="./1.png"> |
 |:-----------------------------------:|
 |         __Cloned Project__          | 
 
@@ -30,7 +30,7 @@ or any other mechanism.
 You can choose any formats for the screen capture as long as it shows your project executing. My simple example shows
 and execution window and browser side-by-side.
 
-| <img src="./project-execution.jpg"> |
+| <img src="./2.png"> |
 |:-----------------------------------:|
 |        __Project Execution__        | 
 
@@ -39,7 +39,7 @@ and execution window and browser side-by-side.
 
 Make a copy of the project and create a project in GitHub. Show the project.
 
-| <img src="./github.jpg"> |
+| <img src="./3.png"> |
 |:------------------------:|
 |  __Project on GitHub__   | 
 
